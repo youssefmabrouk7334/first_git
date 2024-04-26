@@ -1,1 +1,0 @@
-print("Group 3")
